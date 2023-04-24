@@ -79,6 +79,13 @@ pre {
 }
 
 /* Header Logo (style as h2) */
+header {
+	display: flex;
+	min-width: 100%;
+	justify-content: space-between;
+	align-items: center;
+}
+
 header > em {
 	display: block;
 	font-size: 2em;
