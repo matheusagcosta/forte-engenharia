@@ -1,33 +1,98 @@
 ---
-title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
+title: Quem somos
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.description will be used
+  instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
 
-## Our services
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-### Blue-sky thinking
+Somos uma empresa especializada em **atendimento condominial**, trabalhando com consultorias para síndicos, laudos de inspeção predial, laudos de manifestações patológicas, gestão da manutenção revitalização de fachadas e retrofit, englobando desde a fase de projetos o planejamento até a fase de construção e entrega.  
+  
+Uma empresa que busca atender os seus clientes com o maior grau de qualidade e profissionalismo.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+**Nosso Time**
+--------------
 
-#### Management frameworks
+*   ![Caroline Borges](/assets/img/caroline.png)
+    
+    ### Caroline Borges
+    
+    Especialista em Patologia das Construções.
+    
+*   ![João Búfalo](/assets/img/joaobufalo.png)
+    
+    ### João Búfalo
+    
+    Especialista Master Bim, Gestão e Projetos.
+    
+*   ![João paulo](/assets/img/joaopaulo.png)
+    
+    ### João Paulo
+    
+    Especialista em Planejamento, Gestão e Controle de obra.
+    
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+### **Nossa História**
 
-##### Regulatory convergence
+Marcada por grandes transformações e momentos únicos, a **Forte Engenharia** continua crescendo e inovando para melhor atendê-los!
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+2016
+----
+
+De uma ideia nasce a Forte Engenharia.
+
+2017
+----
+
+Atendimento à Shoppings.
+
+2019
+----
+
+Foco em condomínios residenciais.
+
+2020
+----
+
+Abertura de escritório físico.
+
+2021
+----
+
+Especialização em projetos e atendimento condominal.
+
+2022
+----
+
+Iniciamos na área de reformas para casa de alto padrão.
+
+2023
+----
+
+Atender você!
+
+![Planejamento com alto profissionalismo.](/assets/svg/mission.svg)
+
+### **Nossa Missão**
+
+Ser empresa referência no atendimento a condomínios, oferecendo soluções criativas, eficientes e seguras.
+
+![Planejamento com alto profissionalismo.](/assets/svg/work.svg)
+
+### **Nossos Valores**
+
+Integridade, honestidade e profissionalismo.
+
+![Planejamento com alto profissionalismo.](/assets/svg/values.svg)
+
+### **Nossa Visão**
+
+Construir relacionamento positivos e de longo prazo com nossos clientes criando um vínculo baseados na confiança e no respeito.
+
