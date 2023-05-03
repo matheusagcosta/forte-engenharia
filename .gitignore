@@ -1,4 +1,10 @@
-_site/
-node_modules/
-package-lock.json
+/node_modules
 .DS_Store
+.sass-cache/*
+/sass-cache
+*.css.map
+Thumbs.db
+.idea/
+*.log
+.vscode/
+/public
