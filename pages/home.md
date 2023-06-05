@@ -12,8 +12,6 @@ eleventyNavigation:
 
 # Somos a **Forte Engenharia**
 
-T﻿este.
-
 Obra ou projeto? Nós oferecemos soluções personalizadas com excelência!
 
 * ![Planejamento com alto profissionalismo.](/static/img/plan.svg)
