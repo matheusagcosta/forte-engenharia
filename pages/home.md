@@ -1,38 +1,33 @@
 ---
 layout: layouts/home.njk
 title: Forte Engenharia - Especializada em atendimento condominial
-metaDescription: "Somos uma empresa especializada em atendimento condominial"
+metaDescription: Somos uma empresa especializada em atendimento condominial
 date: 2023-04-25T17:37:40.701Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-
 [![Logo](/static/img/logo.svg)](/)
 
-Somos a **Forte Engenharia**
-============================
+# Somos a **Forte Engenharia**
+
+T﻿este.
 
 Obra ou projeto? Nós oferecemos soluções personalizadas com excelência!
 
+* ![Planejamento com alto profissionalismo.](/static/img/plan.svg)
 
+  Planejamento com alto profissionalismo.
+* ![Construção de qualidade do início ao fim.](/static/img/verific.svg)
 
-*   ![Planejamento com alto profissionalismo.](/static/img/plan.svg)
-    
-    Planejamento com alto profissionalismo.
-    
-*   ![Construção de qualidade do início ao fim.](/static/img/verific.svg)
-    
-    Construção de qualidade do início ao fim.
-    
-*   ![Entregas eficientes e seguras.](/static/img/building.svg)
-    
-    Entregas eficientes e seguras.
-    
+  Construção de qualidade do início ao fim.
+* ![Entregas eficientes e seguras.](/static/img/building.svg)
 
-**Nossos Serviços**
--------------------
+  Entregas eficientes e seguras.
+
+## **Nossos Serviços**
+
 ### PROJETOS
 
 [![Projetos](/static/img/projetos.png)](/services)
@@ -53,10 +48,7 @@ Obra ou projeto? Nós oferecemos soluções personalizadas com excelência!
 
 [![Consultoria para síndicos](/static/img/consultoria.png)](/services)
 
-
-
-**Nossos Clientes**
--------------------
+## **Nossos Clientes**
 
 [![Edifício Ópera Prima](/static/img/opera.png)](/services)
 
@@ -82,28 +74,25 @@ Obra ou projeto? Nós oferecemos soluções personalizadas com excelência!
 
 **Serviço:** Assessoria com acompanhamento técnico.
 
-Começe sua **reforma** com a qualidade e profissionalismo da **Forte Engenharia**
----------------------------------------------------------------------------------
+## Começe sua **reforma** com a qualidade e profissionalismo da **Forte Engenharia**
 
 [Agende uma conversa](https://wa.me/5565981369818)
 
 ![Logo](/static/img/logo_rodape.svg)
 
-*   **Institucional**
-*   [Home](/)
-*   [Quem somos](/about)
-*   [Serviços](/services)
-*   [Contatos](https://wa.me/5565981369818)
-
-*   **Serviços**
-*   [Projetos](/services)
-*   [Retrofit](/services)
-*   [Reformas](/services)
-*   [Laudos](/services)
-*   [Consultoria](/services)
-
-*   **Contatos**
-*   [![Número](/static/img/number.svg)(65) 9.8136-9818](https://wa.me/5565981369818)
-*   [![E-mail](/static/img/email.svg)forteengenharia.cjp@gmail.com](forteengenharia.cjp@gmail.com)
-*   [![Instagram](/static/img/insta.svg)@forte.eng](https://www.instagram.com/forte.eng/)
-*   [![Localização](/static/img/localization.svg)Rod. Palmiro Paes de Barros, 1050 - Jardim Nossa Sra. Aparecida, Cuiabá - MT](https://goo.gl/maps/S7pAEAgh1g9uknu99?coh=178573&entry=tt)
+* **Institucional**
+* [Home](/)
+* [Quem somos](/about)
+* [Serviços](/services)
+* [Contatos](https://wa.me/5565981369818)
+* **Serviços**
+* [Projetos](/services)
+* [Retrofit](/services)
+* [Reformas](/services)
+* [Laudos](/services)
+* [Consultoria](/services)
+* **Contatos**
+* [![Número](/static/img/number.svg)(65) 9.8136-9818](https://wa.me/5565981369818)
+* [![E-mail](/static/img/email.svg)forteengenharia.cjp@gmail.com](forteengenharia.cjp@gmail.com)
+* [![Instagram](/static/img/insta.svg)@forte.eng](https://www.instagram.com/forte.eng/)
+* [![Localização](/static/img/localization.svg)Rod. Palmiro Paes de Barros, 1050 - Jardim Nossa Sra. Aparecida, Cuiabá - MT](https://goo.gl/maps/S7pAEAgh1g9uknu99?coh=178573&entry=tt)
