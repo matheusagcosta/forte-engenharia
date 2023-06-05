@@ -8,7 +8,9 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-[![Logo](/static/img/logo.svg)](/)
+![LogoTopo](/static/img/logo.svg)
+
+![CapaHome](/static/img/capa.home.png)
 
 # Somos a **Forte Engenharia**
 
